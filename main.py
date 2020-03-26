@@ -700,4 +700,8 @@ while flag:
         continue
 """
 
-
+x = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1,]
+for y in x:
+    if y < 5 :
+        print(y)
+        
